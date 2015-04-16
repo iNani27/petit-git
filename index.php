@@ -8,9 +8,11 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title>Petit git</title>
+        <script src="monjs.js"></script>
     </head>
     <body>
         <h1>Petit git</h1>
+        <button onclick="bateau();" value="Bateau !!!">Bateau</button>
         <?php
         // put your code here
         ?>
